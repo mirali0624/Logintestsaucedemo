@@ -1,4 +1,4 @@
-# In order to run the project:
+In order to run the project:
 
 Please Clone the Logintestsaucedemo repository to Local Repository (Working directory)
 Then, using Eclipse import project from git to workspace.
